@@ -1,0 +1,1 @@
+web: gunicorn Price_Predictor.wsgi --log-file
